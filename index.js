@@ -6,7 +6,7 @@ prefix: "=" //Discord Bot Prefix
 })
 
 bot.status({
-    text: "with Lurks",
+    text: "Status",
     type: "PLAYING",
     status: "dnd",
     time: 12
